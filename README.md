@@ -1,5 +1,2 @@
-(ankus.jpg)
-
 # Ankus
-
 
